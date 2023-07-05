@@ -1,5 +1,3 @@
-Here is the README.md file with more style added to the instructions list:
-
 # 🚀 Projects Specifications 🚀
 
 Welcome to the projects specifications repository! This is where you can find the details and requirements for the awesome projects that you will be working on as a trainee. Each trainee has a folder with their name, where they can access the specifications for their assigned projects.
