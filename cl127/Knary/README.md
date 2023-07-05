@@ -1,5 +1,3 @@
-Here is the final project specification with more style added to the lists and keywords:
-
 # 💰 Expenses Manager (Knary🦆) 💰
 
 ## 📌 Overview 📌
