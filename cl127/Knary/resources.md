@@ -1,5 +1,3 @@
-Here are the markdown files with the best links to learn FastAPI, Event Driven Development, Domain Driven Development, App Logging, Repository Pattern and Dependency Injection:
-
 # Links to Learn FastAPI
 
 FastAPI is a modern, fast and high-performance web framework for building APIs with Python. It is based on standard Python type hints and supports async/await syntax. It also provides automatic documentation with OpenAPI and Swagger UI.
